@@ -1,9 +1,12 @@
 body {
-    background-color: ivory;
+    background-color: whitesmoke;
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:15px; 
 }
 
 h1 {
-    color: blue;
+    color: black;
 }
 
 p {
