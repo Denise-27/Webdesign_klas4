@@ -9,6 +9,12 @@ h1 {
     color: black;
 }
 
+h2 {
+    font-size:17px;
+    font-weight: bold;
+    color: darkblue;
+}
+
 p {
     font-size: 17px;
 }
