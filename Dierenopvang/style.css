@@ -12,3 +12,10 @@ h1 {
 p {
     font-size: 17px;
 }
+
+article {
+ background-color: #f7c6dc; # licht roze
+ padding: 20px;
+ border: 3px solid #e14f9b; # donker roze
+ margin: 25px;
+}
