@@ -46,3 +46,11 @@ nav { grid-area: nav; }
 main { grid-area: main; }
 aside { grid-area: aside; }
 footer { grid-area: footer; }
+
+nav ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  gap: 16px;
+  justify-content: space-evenly;
+}
